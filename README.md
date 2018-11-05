@@ -1,5 +1,5 @@
 Bonjour
 
 
-Voici mon dépôt GIT pour le cours Outils Collaboratifs
+Voici le dépôt GIT pour le TP sur les Outils Collaboratifs
 
